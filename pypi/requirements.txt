@@ -1,0 +1,14 @@
+# Requirements installed via pip
+django
+BeautifulSoup
+django-tagging
+django-haystack
+django-extensions
+sphinx
+whoosh
+markdown
+textile
+docutils
+mock
+coverage
+pep8

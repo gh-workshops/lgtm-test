@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>sample</id> 
+    <version>1.0.1</version> 
+    <authors>GitHub</authors> 
+    <dependencies>
+      <dependency id="Antlr" version="1.0"/>
+      <dependency id="Owin" version="1.0"/>
+      <dependency id="log4net" version="1.0"/>
+      <dependency id="CommonServiceLocator" version="1.0"/>
+      <dependency id="thisisafakepackageorisit" version="1.0"/>
+       <dependency id="thisisafakepackage" version="[0,0.9]"/>
+
+            <dependency id="hi2hi" version="1.0"/>  
+
+    </dependencies>
+  </metadata>
+</package>
